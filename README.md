@@ -1,2 +1,0 @@
-# dokumenty
-Wyszukiwarka dokumentów
